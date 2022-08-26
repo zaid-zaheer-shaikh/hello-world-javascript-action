@@ -9666,8 +9666,9 @@ var __webpack_exports__ = {};
 (() => {
 const core = __nccwpck_require__(6964);
 const github = __nccwpck_require__(8033);
+const os = __nccwpck_require__(2037);
 
-console.log("lamer is the best gamer");
+console.log(os.arch);
 
 })();
 
