@@ -1,4 +1,4 @@
 const core = require("@actions/core");
 const github = require("@actions/github");
 
-console.log("hello world");
+console.log("lamer is the best gamer");
